@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ginschel.github.io/'
 languageCode = 'en-us'
 title = 'Qualem oporteat'
 theme = 'algo'
