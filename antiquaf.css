@@ -50,3 +50,6 @@ blockquote {
     border-left: 0.35rem solid #e66100;
     padding: 0 1rem 0;
 }
+footer {
+text-align: center;
+}
